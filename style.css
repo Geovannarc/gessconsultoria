@@ -1,0 +1,125 @@
+/* background: rgb(97,224,228);
+background: linear-gradient(90deg, rgba(97,224,228,1) 0%, rgba(32,185,191,1) 100%); */
+
+.logo{
+    width: 4rem;
+}
+
+body{
+    background-color: #F0F7FB !important;
+    font-family: 'Inter', sans-serif !important;
+}
+
+img{
+    max-width: 100%;
+}
+
+.centered{
+    align-self: center;
+}
+
+.nav-link{
+    color: #35D7DD !important;
+}
+
+.padding-10{
+    padding: 10px;
+}
+
+.contato{
+    cursor: pointer;
+}
+
+.nav-link:active{
+    color: #20B9BF  !important;
+}
+
+.nav-item{
+    -webkit-transition-property: right;
+    transition-property: right;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-timing-function: ease-out;
+    transition-timing-function: ease-out;
+}
+
+.paleta1:hover{
+    border-bottom: 2px solid #E46561 !important;
+}
+
+.paleta2:hover{
+    border-bottom: 2px solid #20B9BF !important;
+}
+
+.paleta3:hover{
+    border-bottom: 2px solid #61E4A7 !important;
+}
+
+.bg-color{
+    background-color:  #a1d6dd21;
+}
+
+i{
+    color: rgb(33,37,41, 0.75);
+}
+
+.centered-style{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.font-size-15{
+    font-size: 1.2rem;
+}
+
+.bg-carousel{
+    background-color: rgba(0, 0, 0, 0.055);
+    border-radius: 30px;
+}
+
+.title{
+    font-weight: 300;
+}
+
+.btn-gradient{
+    border: none !important;
+    background: linear-gradient(90deg, rgba(97,224,228,1) 0%, rgba(32,185,191,1) 100%);
+    width: 35% !important;
+}
+
+.btn-gradient-2{
+    border: none !important;
+    background: linear-gradient(90deg, rgba(97,228,167,1) 22%, rgba(97,224,228,1) 100%);
+    width: 35% !important;
+}
+
+.btn-gradient-2:hover{
+    background: linear-gradient(90deg, rgba(65,219,147,1) 22%, rgba(68,212,217,1) 100%);
+}
+
+.btn-gradient:hover{
+    background: linear-gradient(90deg, rgba(97,224,228,1) 0%, rgb(29, 163, 168) 100%);
+}
+
+.img-carousel{
+    max-height: 600px;
+    min-height: 600px;
+    object-fit: cover;
+}
+
+@media (max-width: 400px) {
+    .carousel-caption{
+        bottom: 20% !important;
+    }
+  } @media (min-width: 1001px) {
+    .carousel-caption{
+        bottom: 35% !important; 
+    }
+}@media (max-width: 1000px) and (min-width: 401px) {
+    .carousel-caption{
+        bottom: 25% !important; 
+    }
+}
