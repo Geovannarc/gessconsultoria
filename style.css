@@ -128,6 +128,20 @@ i{
     }
 }
 
+@media (max-width: 400px) {
+    .footer{
+        position: relative;
+    }
+  } @media (min-width: 1001px) {
+    .footer{
+        position: absolute; bottom: 0; 
+    }
+}@media (max-width: 1000px) and (min-width: 401px) {
+    .footer{
+        position: absolute; bottom: 0; 
+    }
+}
+
 .top{
     height: 70vh;
     background-image: url('top-img.jpg');
