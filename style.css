@@ -98,7 +98,7 @@ img{
 }
 
 .bg-color{
-    background: linear-gradient(90deg, rgba(45, 111, 80, 0.053) 0%, rgba(37, 86, 87, 0.063) 100%);
+    background-color: rgba(45, 111, 80, 0.053);
 }
 
 .bg-gradient-2{
@@ -115,6 +115,20 @@ i{
     background-size: cover;
     background-position: center;
 }
+
+.section-bounds {
+    position: absolute;
+    width: 100%;
+    height: 160px;
+    left: 0;
+    top: -155px;
+    pointer-events: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
 .centered-style{
     align-items: center;
     display: flex;
