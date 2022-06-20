@@ -47,12 +47,32 @@ img{
     border-bottom: 2px solid #E46561 !important;
 }
 
+.row{
+    transition-delay: 0.4s;
+}
+
 .paleta2:hover{
     border-bottom: 2px solid #20B9BF !important;
 }
 
 .paleta3:hover{
     border-bottom: 2px solid #61E4A7 !important;
+    border-radius: 0 !important;
+}
+
+.zoom:hover{
+    font-size: 105% !important;
+    transition: 0.4s;
+}
+
+i:hover{
+    font-size: 4.5em !important;
+    transition: 0.2s;
+}
+
+.paleta3{
+    color: rgb(33, 37, 41) !important;
+    border: 0 solid #61E4A7 !important;
 }
 
 .bg-color{
@@ -128,15 +148,11 @@ i{
     }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 500px) {
     .footer{
         position: relative;
     }
-  } @media (min-width: 1001px) {
-    .footer{
-        position: absolute; bottom: 0; 
-    }
-}@media (max-width: 1000px) and (min-width: 401px) {
+  } @media (min-width: 501px) {
     .footer{
         position: absolute; bottom: 0; 
     }
