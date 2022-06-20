@@ -78,7 +78,7 @@ img{
 .header-gif{
     background-image: url('header-gif.gif');
     background-size: cover;
-    background-position: bottom;
+    background-position: center;
 }
 
 .bg-color{
