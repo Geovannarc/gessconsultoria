@@ -65,7 +65,7 @@ img{
     transition: 0.4s;
 }
 
-i:hover{
+.i-card:hover{
     font-size: 4.5em !important;
     transition: 0.2s;
 }
