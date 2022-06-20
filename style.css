@@ -75,8 +75,14 @@ i:hover{
     border: 0 solid #61E4A7 !important;
 }
 
+.header-gif{
+    background-image: url('header-gif.gif');
+    background-size: cover;
+    background-position: bottom;
+}
+
 .bg-color{
-    background: linear-gradient(90deg, rgba(97,228,167,0.17690826330532217) 0%, rgba(97,224,228,0.1741071428571429) 100%);
+    background: linear-gradient(90deg, rgba(45, 111, 80, 0.053) 0%, rgba(37, 86, 87, 0.063) 100%);
 }
 
 .bg-gradient-2{
@@ -87,6 +93,11 @@ i{
     color: rgb(33,37,41, 0.75);
 }
 
+.bg-gif{
+    background-image: url('bg-gif.gif');
+    background-size: cover;
+    background-position: center;
+}
 .centered-style{
     align-items: center;
     display: flex;
@@ -134,7 +145,7 @@ i{
     object-fit: cover;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 430px) {
     .carousel-caption{
         bottom: 20% !important;
     }
@@ -142,10 +153,22 @@ i{
     .carousel-caption{
         bottom: 35% !important; 
     }
-}@media (max-width: 1000px) and (min-width: 401px) {
+}@media (max-width: 1000px) and (min-width: 431px) {
     .carousel-caption{
         bottom: 25% !important; 
     }
+}
+
+.btn:hover{
+    box-shadow: 0 5px 10px rgba(0,0,0,0.16)!important;
+    transition: 0.2s;
+    -ms-transform: translateY(-1px);
+    transform: translateY(-1px);
+    -webkit-transform: translateY(-1px);
+}
+
+.btn{
+    box-shadow: 0 1px 5px rgb(0 0 0 / 16%);
 }
 
 @media (max-width: 500px) {
