@@ -56,7 +56,7 @@ img{
 }
 
 .bg-color{
-    background-color:  #a1d6dd21;
+    background: linear-gradient(90deg, rgba(97,228,167,0.17690826330532217) 0%, rgba(97,224,228,0.1741071428571429) 100%);
 }
 
 .bg-gradient-2{
