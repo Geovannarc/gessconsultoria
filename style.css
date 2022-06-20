@@ -70,6 +70,20 @@ img{
     transition: 0.2s;
 }
 
+.header-index{
+    background-image: url('img2.png');
+    background-size: cover;
+    height: 60vh;
+    background-position: center;
+}
+
+.main{
+    transform: translateY(-50%);
+    top: 50%;
+    position: relative;
+    text-align: center;
+}
+
 .paleta3{
     color: rgb(33, 37, 41) !important;
     border: 0 solid #61E4A7 !important;
@@ -111,8 +125,12 @@ i{
     font-weight: 300;
 }
 
+.btn-outline-dark:hover{
+    background-color: transparent !important;
+}
+
 .font-size-15{
-    font-size: 1.2rem;
+    font-size: 1.2rem !important;
 }
 
 .bg-carousel{
@@ -274,5 +292,5 @@ ul{
 
 a{
     text-decoration: none !important;
-    color: white !important;
+    color: black !important;
 }
