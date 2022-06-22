@@ -328,3 +328,7 @@ a{
     padding: 2.5rem;
     background-color: white;
 }
+
+.pointer{
+    cursor: pointer;
+}
