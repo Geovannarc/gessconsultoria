@@ -96,6 +96,10 @@ img{
     padding-bottom: 10rem;
 }
 
+.min-h{
+    min-height: 6rem;
+}
+
 .bg-color{
     background-color: rgba(45, 111, 80, 0.053);
 }
