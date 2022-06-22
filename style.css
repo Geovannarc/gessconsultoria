@@ -96,6 +96,15 @@ img{
     padding-bottom: 10rem;
 }
 
+.header-cursos{
+    background-image: url('img-cursos.png');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+}
+
 .min-h{
     min-height: 6rem;
 }
