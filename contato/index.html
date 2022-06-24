@@ -36,19 +36,22 @@
     <div class="row">
       <div class="col-sm-7 mb-lg-5">
         <div class="mb-3">
+          <form id="contatoForm" method="get" action="mailto:contato@gessconsultoria.com.br" target="_blank">
                         <label for="exampleFormControlInput1" class="form-label">Nome</label>
                         <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Nome">
-                    </div>
-                    <div class="mb-3">
-                        <label for="exampleFormControlInput1" class="form-label">E-mail</label>
-                        <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="nome@exemplo.com">
-                    </div>
-                      <div class="mb-3">
-                        <label for="exampleFormControlTextarea1" class="form-label">Mensagem</label>
-                        <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
-                      </div>
-                      <button class="btn btn-dark btn-gradient-2" id="btn5"><a href="#">ENVIAR</a></button>
-                </div>
+                        </div>
+                        <div class="mb-3">
+                          <label for="exampleFormControlInput1" class="form-label">E-mail</label>
+                          <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="nome@exemplo.com">
+                        </div>
+                        <div class="mb-3">
+                          <label for="exampleFormControlTextarea1" class="form-label">Mensagem</label>
+                          <textarea class="form-control" type="hidden" name="Body" value="" id="exampleFormControlTextarea1" rows="3"></textarea>
+                        </div>
+                        <button class="btn btn-dark btn-gradient-2" type="submit" value="click" id="enviar"><a
+                            href="mailto:contato@gessconsultoria.com.br?Subject=Contato%20pelo%20site&Body=E%20aqui%20o%20corpo">ENVIAR</a></button>
+                        </div>
+          </form>
                 <!--<div class="col-sm-5">
                     <div class="contato mt-3">
                         <i class="fab fa-whatsapp fa-2x" style="color: #20B9BF;"></i> <p style="display: inline; vertical-align: super;"> Envie-nos uma mensagem!</p>
