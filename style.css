@@ -88,7 +88,7 @@ img{
 }
 
 .header-gif{
-    background-image: url('https://gessconsultoria/img/header-gif.gif');
+    background-image: url('https://gessconsultoria.com.br/img/header-gif.gif');
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -97,7 +97,7 @@ img{
 }
 
 .header-cursos{
-    background-image: url('https://gessconsultoria/img/img-cursos.png');
+    background-image: url('https://gessconsultoria.com.br/img/img-cursos.png');
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -122,7 +122,7 @@ i{
 }
 
 .bg-gif{
-    background-image: url('https://gessconsultoria/img/bg-gif.gif');
+    background-image: url('https://gessconsultoria.com.br/img/bg-gif.gif');
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -229,7 +229,7 @@ i{
 
 .top{
     height: 45rem;
-    background-image: url('https://gessconsultoria/img/top-img.jpg');
+    background-image: url('https://gessconsultoria.com.br/img/top-img.jpg');
     background-attachment: fixed;
     background-position: top;
     background-size: cover;
@@ -246,7 +246,7 @@ i{
 }
 
 .img-consultoria{
-    background-image: url('https://gessconsultoria/img/img-consultoria.png');
+    background-image: url('https://gessconsultoria.com.br/img/img-consultoria.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
