@@ -61,6 +61,6 @@ document.getElementById('contatoFormHome').addEventListener('submit', function (
 document.getElementById('contatoForm').addEventListener('submit', function () {
     var nome = this.querySelector('input[name=nome]'), nome = nome.value;
     var email = this.querySelector('input[name=email]'), email = email.value;
-    var texto = 'Olá destinatário, \nMeu nome é '+ nome +' e meu email é '+ email;
-    this.querySelector('input[name=Body]').setAttribute('value', texto);
+   var texto = this.querySelector('input[name=Body]');
+     window.location.href = "mailto:contato@gessconsultoria.com.br?Subject=Contato%20pelo%20site&Body="+texto.value;
 });
