@@ -68,37 +68,56 @@
       </div>
     <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100" preserveAspectRatio="none" version="1.1" viewBox="0 0 100 80"><path d="m0 0s-0.76372 46 17.5 61c18.264 15 82.5-23.5 82.5-23.5v42.5h-100z" fill="rgba(45, 111, 80, 0.053)" style="max-width: 100%;"/></svg>
     <div class="container-fluid bg-color">
-        <h1 class="text-center title mb-5" style="padding-top:2rem;">Contato</h1>
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-7 mb-lg-5">
-                  <div class="mb-3">
-                    <label for="exampleFormControlInput1" class="form-label">Nome</label>
-                    <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Nome">
-                  </div>
-                    <div class="mb-3">
-                        <label for="exampleFormControlInput1" class="form-label">E-mail</label>
-                        <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+              <div class="container">
+      <p class="mb-5 font-size-15">Quer nos contratar ou tirar alguma dúvida sobre nossos serviços? Mande-nos uma mensagem.</p>
+      <div class="row">
+        <div class="col-sm-7 mb-lg-5">
+          <div class="mb-3">
+            <form id="contatoForm" method="get" action="mailto:contato@gessconsultoria.com.br" target="_blank">
+                          <label for="exampleFormControlInput1" class="form-label">Nome</label>
+                          <input type="text" class="form-control" name="nome" id="exampleFormControlInput1" placeholder="Nome">
+                          </div>
+                          <div class="mb-3">
+                            <label for="exampleFormControlInput1" class="form-label">E-mail</label>
+                            <input type="email" class="form-control" name="email" id="exampleFormControlInput1" placeholder="nome@exemplo.com">
+                          </div>
+                          <div class="mb-3">
+                            <label for="exampleFormControlTextarea1" class="form-label">Mensagem</label>
+                            <textarea class="form-control" type="hidden" name="Body" value="" id="exampleFormControlTextarea1" rows="3"></textarea>
+                          </div>
+                          <button class="btn btn-dark btn-gradient-2" type="submit" value="click" id="enviar"><a
+                              href="mailto:contato@gessconsultoria.com.br?Subject=Contato%20pelo%20site&Body=E%20aqui%20o%20corpo">ENVIAR</a></button>
+                          </div>
+            </form>
+                  <div class="col-sm-5">
+                      <div class="contato mt-3">
+                        <a href="https://wa.me/5521997379528">
+                          <i class="fab fa-whatsapp fa-2x" style="color: #20B9BF;"></i> <p style="display: inline; vertical-align: super;"> +55 21 99737-9528</p>
+                        </a>
+                        </div>
+                        <div class="contato mt-3">
+                          <a href="https://wa.me/21995033429">
+                            <i class="fab fa-whatsapp fa-2x" style="color: #20B9BF;"></i> <p style="display: inline; vertical-align: super;"> +55 21 99503-3429</p>
+                          </a>
+                          </div>
+                      <div class="contato mt-3">
+                        <a href="tel:5521997379528">
+                          <i class="fas fa-phone fa-2x" style="display: inline-block; color: #20B9BF;"></i><p style="display: inline;"> +55 21 99737-9528</p>
+                        </a>    
                       </div>
-                      <div class="mb-3">
-                        <label for="exampleFormControlTextarea1" class="form-label">Mensagem</label>
-                        <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                      <div class="contato mt-3">
+                        <a href="tel:5521995033429">
+                          <i class="fas fa-phone fa-2x" style="display: inline-block; color: #20B9BF;"></i><p style="display: inline;"> +55 21 99737-9528</p>
+                        </a>    
                       </div>
-                      <button class="btn btn-dark btn-gradient-2" id="btn5"><a href="#">ENVIAR</a></button>
-                </div>
-                <div class="col-sm-5">
-                    <div class="contato mt-3">
-                        <i class="fab fa-whatsapp fa-2x" style="color: #20B9BF;"></i> <p style="display: inline; vertical-align: super;">Envie-nos uma mensagem!</p>
+                      <div class="contato mt-3">
+                        <a href="mailto:contato@gessconsultoria.com.br">
+                          <i class="fa-solid fa-envelope fa-2x" style="display: inline-block; color: #20B9BF;"></i><p style="display: inline;"> contato@gessconsultoria.com.br</p>
+                      </a> 
                     </div>
-                    <div class="contato mt-3">
-                        <i class="fas fa-phone fa-2x" style="display: inline-block; color: #20B9BF;"></i><p style="display: inline; vertical-align: super;">+55 21XXXXX-XXXX</p>
-                    </div>
-                    <div class="contato mt-3">
-                      <i class="fa-solid fa-envelope fa-2x" style="display: inline-block; color: #20B9BF;"></i><p style="display: inline; vertical-align: super;"> emaildaempresa@empresa.com.br</p>
                   </div>
-                </div>
+              </div>
             </div>
-        </div>
       </div>
         <div class="container-fluid bg-color">
             <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 border-top">
