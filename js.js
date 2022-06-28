@@ -51,16 +51,7 @@ function changeContent(id){
     }
 }
 
-document.getElementById('contatoFormHome').addEventListener('submit', function () {
-  var nome = this.querySelector('input[name=nome]'), nome = nome.value;
-  var email = this.querySelector('input[name=email]'), email = email.value;
-  var texto = this.querySelector('input[name=Body]');
-  window.location.href = "mailto:contato@gessconsultoria.com.br?Subject=Contato%20pelo%20site&Body="+texto.value;
-});
-
-document.getElementById('contatoForm').addEventListener('submit', function () {
-    var nome = this.querySelector('input[name=nome]'), nome = nome.value;
-    var email = this.querySelector('input[name=email]'), email = email.value;
-   var texto = this.querySelector('input[name=Body]');
-     window.location.href = "mailto:contato@gessconsultoria.com.br?Subject=Contato%20pelo%20site&Body="+texto.value;
-});
+function atualizar() {
+  let mensagem = document.getElementById('mensagem');
+  document.getElementById("link").setAttribute("href", "mailto:contato@gessconsultoria.com.br?subject=" + encodeURIComponent("Contato via site") + "&body=" + encodeURIComponent(mensagem.value));
+}
