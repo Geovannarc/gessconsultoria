@@ -71,15 +71,14 @@ img{
     background-image: url('https://gessconsultoria.com.br/img/img2.png');
     background-size: cover;
     background-attachment: fixed;
-    height: 70vh;
     background-position: center;
 }
 
 .main{
-    transform: translateY(-50%);
-    top: 50%;
+    padding-top: 10rem;
     position: relative;
     text-align: center;
+    padding-bottom: 10rem;
 }
 
 .paleta3{
@@ -191,20 +190,6 @@ i{
     object-fit: cover;
 }
 
-@media (max-width: 430px) {
-    .carousel-caption{
-        bottom: 20% !important;
-    }
-  } @media (min-width: 1001px) {
-    .carousel-caption{
-        bottom: 35% !important; 
-    }
-}@media (max-width: 1000px) and (min-width: 431px) {
-    .carousel-caption{
-        bottom: 25% !important; 
-    }
-}
-
 .btn:hover{
     box-shadow: 0 5px 10px rgba(0,0,0,0.16)!important;
     transition: 0.2s;
@@ -217,11 +202,11 @@ i{
     box-shadow: 0 1px 5px rgb(0 0 0 / 16%);
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1024px) {
     .footer{
         position: relative;
     }
-  } @media (min-width: 501px) {
+  } @media (min-width: 1025px) {
     .footer{
         position: absolute; bottom: 0; 
     }
@@ -328,4 +313,45 @@ a{
 
 .pointer{
     cursor: pointer;
+}
+  
+@media screen and (max-width: 920px) {
+    .navMobile{
+        display: block;
+    }.myTopnav{
+        display: none;
+    }
+}@media screen and (min-width: 921px){
+    .navMobile{
+        display: none;
+    }.myTopnav{
+        display: block;
+    }
+}
+
+.navMobileLinks{
+    text-align: center;
+    width: 100%;
+}
+
+.icon{
+    right: 10px;
+    position: fixed;
+}
+
+.navMobile{
+    position: fixed;
+    background-color: #F0F7FB;
+    z-index: 99999;
+}
+
+@media screen and (max-width: 920px) {
+    .navMobileSpace{
+        position: relative;
+        visibility: hidden !important;
+    }
+}@media screen and (min-width: 921px){
+    .navMobileSpace{
+        display: none;
+    }
 }
