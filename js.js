@@ -55,8 +55,6 @@ function atualizar() {
   let mensagem = document.getElementById('mensagem');
   document.getElementById("link").setAttribute("href", "mailto:contato@gessconsultoria.com.br?subject=" + encodeURIComponent("Contato via site") + "&body=" + encodeURIComponent(mensagem.value));
 }
-<<<<<<< Updated upstream
-=======
 
 function showMenu(menu) {
   const x = document.getElementById(menu);
@@ -67,4 +65,3 @@ function showMenu(menu) {
   }
     
 }
->>>>>>> Stashed changes
