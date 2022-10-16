@@ -355,3 +355,37 @@ a{
         display: none;
     }
 }
+
+.card-cursos{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.card-inner-cursos{
+    border: 0 !important;
+    border-radius: 0 !important;
+}
+
+.cursos-title{
+    font-size: 2em;
+    color: ghostwhite;
+    text-transform: uppercase;
+    font-weight: 300;
+}
+
+.color-ghostwhite{
+    color: ghostwhite !important;
+}
+
+.font-size-12{
+    font-size: 1.2em;
+}
+
+.price{
+    font-size: 2.2em;
+    color: green;
+}
+
+.min-h-20{
+    min-height: 20em;
+}
