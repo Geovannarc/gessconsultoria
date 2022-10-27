@@ -389,3 +389,16 @@ a{
 .min-h-20{
     min-height: 20em;
 }
+
+.bg-green{
+    background-color: #03a5a5;
+}
+
+.list-group-item{
+    background-color: #0000001f !important;
+    color: ghostwhite !important;
+}
+
+.w-100{
+    width: 100%;
+}
