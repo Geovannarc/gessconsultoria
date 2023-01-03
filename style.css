@@ -402,3 +402,50 @@ a{
 .w-100{
     width: 100%;
 }
+
+.quadrado{
+    padding: 1em;
+    box-shadow: 7px 7px 0px #0b9fa5;
+    width: 100px;
+    border: 1px solid #0b9fa5;
+    font-size: 1.5em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.quadrado-img{
+    box-shadow: 7px 7px 0px #0b9fa5;
+    width: 200px;
+    border: 1px solid #0b9fa5;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.texto-modulos{
+    text-align: left;
+    font-size: 1.2em;
+    text-transform: uppercase;
+    vertical-align: middle;
+}
+
+.modulo-titulo{
+    font-weight: 600;
+    color: #0b9fa5;
+}
+
+@media (max-width: 1024px) {
+    .display-inlineb{
+        display: block;
+        text-align: center;
+        margin-top: 1em;
+    }
+  } @media (min-width: 1025px) {
+    .display-inlineb{
+        display: inline-block;
+    }
+}
+
+.l-sub{
+    font-size: 0.8em;
+    text-transform: uppercase;
+}
