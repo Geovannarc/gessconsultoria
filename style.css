@@ -449,3 +449,50 @@ a{
     font-size: 0.8em;
     text-transform: uppercase;
 }
+
+.bg-auditzs{
+    background-image: url('./img/bg-auditzs.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+}
+
+@media (max-width: 1024px) {
+    .titulo-auditzs{
+        text-align: center;
+        font-size: 1.8em;
+        font-weight: 300;
+        color: white;
+        padding-left: 1em;
+    }
+  } @media (min-width: 1025px) {
+    .titulo-auditzs{
+        font-size: 2.5em;
+        font-weight: 300;
+        padding-left: 3em;
+    }
+}
+
+.titulo-auditzs {
+    color: white;
+    text-transform: uppercase;
+    left: -30px;
+    background-image: url('./img/logo-auditzs.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.curso-1{
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 7px 7px 0px #4d4898;
+}
+
+.titulo-cursos-auditzs{
+    font-size: 1.5em;
+    font-weight: 300;
+    color: white;
+    text-transform: uppercase;
+}
