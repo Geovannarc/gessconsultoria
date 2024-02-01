@@ -149,21 +149,119 @@ let listas = [
   <li class="list-group-item">MÓDULO 7   - RESOLUÇÕES NORMATIVAS</li>
   <li class="list-group-item">MÓDULO 6   - AUDITORIAS</li>
   <li class="list-group-item">MÓDULO 7   - FLUXO DE FATURAMENTO</li>
+  </ul>`,
+  `<ul class="list-group mt-3">
+  <li class="list-group-item">MÓDULO 1   - APRESENTAÇÃO E OBJETIVOS</li>
+  <li class="list-group-item">MÓDULO 2   - FATURAMENTO HOSPITALAR</li>
+  <li class="list-group-item">MÓDULO 3   - LEGISLAÇÕES</li>
+  <li class="list-group-item">MÓDULO 4   - CONTRATUAIZAÇÃO</li>
+  <li class="list-group-item">MÓDULO 5   - CONTRATOS</li>
+  <li class="list-group-item">MÓDULO 6   - MODELOS DE REMUNERAÇÃO</li>
+  <li class="list-group-item">MÓDULO 7   - TABELAS DE FATURAMENTO</li>
+  <li class="list-group-item">MÓDULO 8   - SAÚDE SUPLEMENTAR – TISS</li>
+  <li class="list-group-item">MÓDULO 9   - SAÚDE SUPLEMENTAR - TUSS</li>
+  <li class="list-group-item">MÓDULO 10 - PRONTUÁRIO</li>
+  <li class="list-group-item">MÓDULO 11 - PRODUZINDO A CONTA HOSPITALAR</li>
+  <li class="list-group-item">MÓDULO 12 - AUDITORIA EM SAÚDE</li>
+  </ul>
+  <button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://hotmart.com/pt-br/marketplace/produtos/gestao-de-faturamento-de-contas-medicas/B75630260L" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>`,
+  `<ul class="list-group mt-3">
+  <li class="list-group-item">MÓDULO 1   - APRESENTAÇÃO E OBJETIVOS</li>
+  <li class="list-group-item">MÓDULO 2   - CONCEITOS IMPORTANTES</li>
+  <li class="list-group-item">MÓDULO 3   - CICLO DA RECEITA HOSPITALAR</li>
+  <li class="list-group-item">MÓDULO 4   - CONTRATUALIZAÇÃO</li>
+  <li class="list-group-item">MÓDULO 5   - CONTRATOS</li>
+  <li class="list-group-item">MÓDULO 6   - MODELOS DE REMUNERAÇÃO</li>
+  <li class="list-group-item">MÓDULO 7   - TABELAS DE FATURAMENTO</li>
+  <li class="list-group-item">MÓDULO 8   - SAÚDE SUPLEMENTAR – TISS</li>
+  <li class="list-group-item">MÓDULO 9   - SAÚDE SUPLEMENTAR - TUSS</li>
+  <li class="list-group-item">MÓDULO 10 - PRONTUÁRIO</li>
+  <li class="list-group-item">MÓDULO 11 - PRODUZINDO A CONTA HOSPITALAR</li>
+  <li class="list-group-item">MÓDULO 12 - AUDITORIA EM SAÚDE</li>
+  </ul>
+  <button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://go.hotmart.com/W76867763R" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>`,
+  `<ul class="list-group mt-3">
+  <li class="list-group-item">MÓDULO 1   - CONCEITOS E CLASSIFICAÇÕES DE OPME/DMI</li>
+  <li class="list-group-item">MÓDULO 2   - CENÁRIOS E TENDÊNCIAS RELACIONADAS A OPME/DMI NO BRASIL E NO MUNDO</li>
+  <li class="list-group-item">MÓDULO 3   - DIRETRIZES E LEGISLAÇÕES EM OPME/DMI</li>
+  <li class="list-group-item">MÓDULO 4   - FLUXOS OPERACIONAIS DE OPME/DMI DENTRO DE OPERADORAS E HOSPITAIS (NÚCLEOS TÉCNICOS)</li>
+  <li class="list-group-item">MÓDULO 5   - AGÊNCIAS REGULADORAS (ANVISA E ANS)</li>
+  <li class="list-group-item">MÓDULO 6   - TABELAS DE OPME/DMI DE DOMÍNIO PÚBLICO (TUSS, SUS, ETC)</li>
+  <li class="list-group-item">MÓDULO 7   - RASTREABILIDADE PARA AUDITORIA PÓS CIRÚRGICA E FATURAMENTO DE OPME/DMI</li>
+  </ul>
+  <button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://go.hotmart.com/F76925606B" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>`,
+  `<ul class="list-group mt-3">
+  <li class="list-group-item">MÓDULO 1   - HISTÓRICO, CENÁRIOS E CONCEITOS DAS DIVERGÊNCIAS TÉCNICO-ASSISTENCIAIS</li>
+  <li class="list-group-item">MÓDULO 2   - JUNTA MÉDICA NOS PROCESSOS DE AUTORIZAÇÃO DE PROCEDIMENTOS OU EVENTOS EM SAÚDE</li>
+  <li class="list-group-item">MÓDULO 3   - COMPOSIÇÃO DA JUNTA MÉDICA</li>
+  <li class="list-group-item">MÓDULO 4   - TIPOS DE JUNTA MÉDICA</li>
+  <li class="list-group-item">MÓDULO 5   - O PROFISSIONAL ASSISTENTE E SUAS OBRIGAÇÕES NO PROCESSO DE SOLICITAÇÃO DOS PROCEDIMENTOS</li>
+  <li class="list-group-item">MÓDULO 6   - PAPEL DO MÉDICO AUDITOR NO PROCESSO DA JUNTA MÉDICA</li>
+  <li class="list-group-item">MÓDULO 7   - POSSIBILIDADES DE CONSENSO</li>
+  </ul>
+  <button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://go.hotmart.com/B76925608S" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>`,
+  `<ul class="list-group mt-3">
+  <li class="list-group-item">MÓDULO 1   - REVISÃO DA ANATOMIA E FISIOLOGIA ENDOVASCULAR</li>
+  <li class="list-group-item">MÓDULO 2   - ACESSO: PUNÇÃO ARTERIAL, INTRODUTORES (CURTOS, BAINHAS LONGAS E ARAMADAS), ACESSÓRIOS, GUIAS (FLEXÍVES E EXTRA SUPORTE) E CATÉTERES (CONVENCIONAIS E CENTIMETRADOS)</li>
+  <li class="list-group-item">MÓDULO 3   - DIAGNÓSTICO: ARTERIOGRAFIAS E AORTOGRAFIAS (SISTEMAS INJETORES E TIPOS DE CONTRASTES)</li>
+  <li class="list-group-item">MÓDULO 4   - TRATAMENTOS: ABERTOS (ENXERTOS) E PERCUTÂNEOS, ESTENOSES E ANEURISMAS (TÉCNICAS POR BALÕES, STENTS E ENDOPRÓTESES)</li>
+  <li class="list-group-item">MÓDULO 5   - ESTENOSES: CAROTÍDEAS (SISTEMA DE PROTEÇÃO DISTAL, BALÃO E STENT AUTOEXPANSÍVEL), ARTÉRIAS RENAIS E PERIFÉRICAS (BALÕES E STENTS EXPANSÍVEIS POR BALÃO E AUTO EXPANSÍVEIS), E MUITO MAIS!</li>
+  </ul><button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://go.hotmart.com/E76925609M" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>`,
+  `<ul class="list-group mt-3">
+  <li class="list-group-item">MÓDULO 1   - INTRODUÇÃO - CONSIDERAÇÕES SOBRE COLUNA VERTEBRAL / PROBLEMAS DE COLUNA</li>
+  <li class="list-group-item">MÓDULO 2   - COLUNA CERVICAL</li>
+  <li class="list-group-item">MÓDULO 3   - COLUNA LOMBAR</li>
+  <li class="list-group-item">MÓDULO 4   - COLUNA TORÁCICA</li>
+  <li class="list-group-item">MÓDULO 5   - COLUNA SACRO-ILÍACA</li>
+  </ul><button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://go.hotmart.com/Q76925610I" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>`,
+  `<ul class="list-group mt-3">
+  <li class="list-group-item">MÓDULO 1   - AUDITORIA DE OPME NO TRAUMA / EMERGÊNCIA NA BMF – MICROPLACAS, MICROPARAFUSOS, MICROTELAS, ENXERTOS, PROTOTIPADOS (BIOLÓGICOS E SINTÉTICOS), NOVAS TECNOLOGIAS</li>
+  <li class="list-group-item">MÓDULO 2   - AUDITORIA DE OPME EM PROCEDIMENTOS CORRETIVOS NA BMF (CIRURGIAS ORTOGNÁTICAS), PRINCIPAIS PATOLOGIAS E PROCEDIMENTOS (PROGNATISMOS, MORDIDA ABERTA, ETC), OPME’S: MICROPLACAS, MICROPARAFUSOS, MICROTELAS, PARAFUSO DE FIXAÇÃO / BLOQUEIO INTERMAXILAR - IMF, MICRODISSECTORES, MICROSSERRAS, ENXERTOS (ORGÂNICOS, SINTÉTICOS - PÓ, GRÂNULOS, BLOCOS E PASTA / MEMBRANAS), DISTRATORES PALATAIS, PRÓTESES ATM (DE PRATELEIRA E CUSTOMIZADAS), ARTROSCOPIA DE ATM, PROTOTIPADOS (BIOLÓGICOS E SINTÉTICOS), NOVAS TECNOLOGIAS</li>
+  <li class="list-group-item">MÓDULO 3   - CMF (TRAUMA E CRANIO ESTENOSE): MINIPLACAS, MINIPARAFUSOS, CIMENTO TERMOPLÁSTICO, BIOABSORVÍVEIS</li>
+  <li class="list-group-item">MÓDULO 4   - LEGISLAÇÕES, MBE E ATS RELACIONADAS ÀS ESPECIALIDADES DE BMF E CMF </li>
+  </ul><button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://go.hotmart.com/L76925607S" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>`,
+  `<ul class="list-group mt-3">
+  <li class="list-group-item">MÓDULO 1   - CONCEITO, HISTÓRICO, CRITÉRIOS DE REMUNERAÇÃO</li>
+  <li class="list-group-item">MÓDULO 2   - PROCEDIMENTOS GERAIS E CLÍNICOS</li>
+  <li class="list-group-item">MÓDULO 3   - PROCEDIMENTOS CIRÚRGICOS INVASIVOS</li>
+  <li class="list-group-item">MÓDULO 4 - PROCEDIMENTOS DIAGNÓSTICO E TERAPÊUTICOS</li>
+  </ul><button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://hotmart.com/pt-br/marketplace/produtos/tabela-cbhpm/Q78875304D?sck=HOTMART_PRODUCT_PAGE" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>`,
+  `<ul class="list-group mt-3">
+  <li class="list-group-item">MÓDULO 1   - APRESENTAÇÃO E OBJETIVOS</li>
+  <li class="list-group-item">MÓDULO 2   - PASSO A PASSO PARA FATURAR E AUDITAR AS CONTAS DE PACIENTES ATENDIDOS NO PRONTO SOCORRO</li>
+  </ul>`,
+  `<ul class="list-group mt-3">
+  <li class="list-group-item">MÓDULO 1   - APRESENTAÇÃO E OBJETIVOS</li>
+  <li class="list-group-item">MÓDULO 2   - PASSO A PASSO PARA FATURAR E AUDITAR AS CONTAS DE PACIENTES INTERNADOS - CONSUMO NAS UNIDADES DE INTERNAÇÃO (UI E UTI)</li>
+  <li class="list-group-item">MÓDULO 3   - PASSO A PASSO PARA FATURAR E AUDITAR AS CONTAS DE PACIENTES CIRÚRGICOS - CONSUMO DO PACIENTE NAS CIRURGIAS</li>
+  </ul>`,
+  `<ul class="list-group mt-3">
+  <li class="list-group-item">MÓDULO 1   - APRESENTAÇÃO E OBJETIVOS</li>
+  <li class="list-group-item">MÓDULO 2   - PASSO A PASSO PARA FATURAR E AUDITAR AS CONTAS DE PACIENTES ATENDIDOS NO PRONTO SOCORRO</li>
+  </ul>`,
+  `<ul class="list-group mt-3">
+  <li class="list-group-item">MÓDULO 1   - APRESENTAÇÃO E OBJETIVOS</li>
+  <li class="list-group-item">MÓDULO 2   - PASSO A PASSO PARA FATURAR E AUDITAR AS CONTAS DE PACIENTES INTERNADOS - CONSUMO NAS UNIDADES DE INTERNAÇÃO (UI E UTI)</li>
+  <li class="list-group-item">MÓDULO 3   - PASSO A PASSO PARA FATURAR E AUDITAR AS CONTAS DE PACIENTES CIRÚRGICOS - CONSUMO DO PACIENTE NAS CIRURGIAS</li>
   </ul>`
 ]
 
-
 function saibaMais(id){
-  let num = id.split('')
-  num = num[num.length - 1]
-  let about = document.getElementById("about"+num)
+  let about = document.getElementById("about"+id)
   let button = document.getElementById(id)
   if(button.classList.contains('btn')){
-    about.innerHTML = `
+    if(button.classList.contains('auditz')) {
+      about.innerHTML = `
       <h3 class='col-white mt-3'>CONTEÚDO DO CURSO:</h3>
-      ${listas[num-1]}
-      <button class="btn btn-success w-100 mt-3"><a href="https://wa.me/5521997379528" style="color: white !important;">SOLICITE UM ORÇAMENTO <i class="fas fa-long-arrow-alt-right color-ghostwhite"></i></a></button>
-    `
+      ${listas[id-1]}
+      `
+    }else{
+      about.innerHTML = `
+        <h3 class='col-white mt-3'>CONTEÚDO DO CURSO:</h3>
+        ${listas[id-1]}
+        <button class="btn btn-success w-100 mt-3"><a href="https://wa.me/5521997379528" style="color: white !important;">SOLICITE UM ORÇAMENTO <i class="fas fa-long-arrow-alt-right color-ghostwhite"></i></a></button>
+      `
+    }
     button.innerHTML = ''
     button.classList.remove('btn')
     button.classList.add('btn-close','btn-close-white')

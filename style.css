@@ -394,6 +394,10 @@ a{
     background-color: #03a5a5;
 }
 
+.bg-green-2{
+    background-color: #24bf9a;
+}
+
 .list-group-item{
     background-color: #0000001f !important;
     color: ghostwhite !important;
