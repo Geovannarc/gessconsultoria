@@ -225,7 +225,7 @@ let listas = [
   <li class="list-group-item">MÓDULO 2   - PROCEDIMENTOS GERAIS E CLÍNICOS</li>
   <li class="list-group-item">MÓDULO 3   - PROCEDIMENTOS CIRÚRGICOS INVASIVOS</li>
   <li class="list-group-item">MÓDULO 4 - PROCEDIMENTOS DIAGNÓSTICO E TERAPÊUTICOS</li>
-  </ul><button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://hotmart.com/pt-br/marketplace/produtos/tabela-cbhpm/Q78875304D?sck=HOTMART_PRODUCT_PAGE" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>`,
+  </ul><button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://go.hotmart.com/Q78875304D?dp=1" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>`,
   `<ul class="list-group mt-3">
   <li class="list-group-item">MÓDULO 1   - APRESENTAÇÃO E OBJETIVOS</li>
   <li class="list-group-item">MÓDULO 2   - PASSO A PASSO PARA FATURAR E AUDITAR AS CONTAS DE PACIENTES ATENDIDOS NO PRONTO SOCORRO</li>
@@ -243,7 +243,43 @@ let listas = [
   <li class="list-group-item">MÓDULO 1   - APRESENTAÇÃO E OBJETIVOS</li>
   <li class="list-group-item">MÓDULO 2   - PASSO A PASSO PARA FATURAR E AUDITAR AS CONTAS DE PACIENTES INTERNADOS - CONSUMO NAS UNIDADES DE INTERNAÇÃO (UI E UTI)</li>
   <li class="list-group-item">MÓDULO 3   - PASSO A PASSO PARA FATURAR E AUDITAR AS CONTAS DE PACIENTES CIRÚRGICOS - CONSUMO DO PACIENTE NAS CIRURGIAS</li>
-  </ul>`
+  </ul>`,
+  `<ul class="list-group mt-3">
+  <li class="list-group-item">MÓDULO 1   - APRESENTAÇÃO E OBJETIVOS</li>
+  <li class="list-group-item">MÓDULO 2   - FATURAMENTO HOSPITALAR</li>
+  <li class="list-group-item">MÓDULO 3   - LEGISLAÇÕES</li>
+  <li class="list-group-item">MÓDULO 4   - CONTRATUAIZAÇÃO</li>
+  <li class="list-group-item">MÓDULO 5   - CONTRATOS</li>
+  <li class="list-group-item">MÓDULO 6   - MODELOS DE REMUNERAÇÃO</li>
+  <li class="list-group-item">MÓDULO 7   - TABELAS DE FATURAMENTO</li>
+  <li class="list-group-item">MÓDULO 8   - SAÚDE SUPLEMENTAR – TISS</li>
+  <li class="list-group-item">MÓDULO 9   - SAÚDE SUPLEMENTAR - TUSS</li>
+  <li class="list-group-item">MÓDULO 10 - PRONTUÁRIO</li>
+  <li class="list-group-item">MÓDULO 11 - PRODUZINDO A CONTA HOSPITALAR</li>
+  <li class="list-group-item">MÓDULO 12 - AUDITORIA EM SAÚDE</li>
+  </ul>
+  <button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://hotmart.com/pt-br/marketplace/produtos/gestao-de-faturamento-de-contas-medicas/B75630260L" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>`,
+  `<ul class="list-group mt-3">
+  <li class="list-group-item">MÓDULO 1   - APRESENTAÇÃO E OBJETIVOS</li>
+  <li class="list-group-item">MÓDULO 2   - CONCEITOS IMPORTANTES</li>
+  <li class="list-group-item">MÓDULO 3   - CICLO DA RECEITA HOSPITALAR</li>
+  <li class="list-group-item">MÓDULO 4   - CONTRATUALIZAÇÃO</li>
+  <li class="list-group-item">MÓDULO 5   - CONTRATOS</li>
+  <li class="list-group-item">MÓDULO 6   - MODELOS DE REMUNERAÇÃO</li>
+  <li class="list-group-item">MÓDULO 7   - TABELAS DE FATURAMENTO</li>
+  <li class="list-group-item">MÓDULO 8   - SAÚDE SUPLEMENTAR – TISS</li>
+  <li class="list-group-item">MÓDULO 9   - SAÚDE SUPLEMENTAR - TUSS</li>
+  <li class="list-group-item">MÓDULO 10 - PRONTUÁRIO</li>
+  <li class="list-group-item">MÓDULO 11 - PRODUZINDO A CONTA HOSPITALAR</li>
+  <li class="list-group-item">MÓDULO 12 - AUDITORIA EM SAÚDE</li>
+  </ul>
+  <button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://go.hotmart.com/W76867763R" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>`,
+  `<ul class="list-group mt-3">
+  <li class="list-group-item">MÓDULO 1   - CONCEITO, HISTÓRICO, CRITÉRIOS DE REMUNERAÇÃO</li>
+  <li class="list-group-item">MÓDULO 2   - PROCEDIMENTOS GERAIS E CLÍNICOS</li>
+  <li class="list-group-item">MÓDULO 3   - PROCEDIMENTOS CIRÚRGICOS INVASIVOS</li>
+  <li class="list-group-item">MÓDULO 4 - PROCEDIMENTOS DIAGNÓSTICO E TERAPÊUTICOS</li>
+  </ul><button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://go.hotmart.com/Q78875304D?dp=1" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>`
 ]
 
 function saibaMais(id){
