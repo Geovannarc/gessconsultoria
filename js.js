@@ -295,7 +295,7 @@ function saibaMais(id){
       about.innerHTML = `
         <h3 class='col-white mt-3'>CONTEÚDO DO CURSO:</h3>
         ${listas[id-1]}
-        <button class="btn btn-success w-100 mt-3"><a href="https://wa.me/5521997379528" style="color: white !important;">SOLICITE UM ORÇAMENTO <i class="fas fa-long-arrow-alt-right color-ghostwhite"></i></a></button>
+        <button class="btn btn-success w-100 mt-3"><a href="https://wa.me/5521995033429" style="color: white !important;">SOLICITE UM ORÇAMENTO <i class="fas fa-long-arrow-alt-right color-ghostwhite"></i></a></button>
       `
     }
     button.innerHTML = ''
