@@ -367,7 +367,7 @@ a{
 }
 
 .cursos-title{
-    font-size: 2em;
+    font-size: 1.6rem;
     color: ghostwhite;
     text-transform: uppercase;
     font-weight: 300;
@@ -500,3 +500,6 @@ a{
     color: white;
     text-transform: uppercase;
 }
+
+
+  
