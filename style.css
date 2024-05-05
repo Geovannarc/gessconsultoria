@@ -88,7 +88,6 @@ img{
 
 .header-gif{
     background-image: url('https://gessconsultoria.com.br/img/header-gif.gif');
-    background-attachment: fixed;
     background-size: cover;
     background-position: center;
     padding-top: 10rem;
