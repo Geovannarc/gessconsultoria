@@ -74,6 +74,15 @@ img{
     background-position: center;
 }
 
+@media screen and (max-width: 768px) {
+    .header-index {
+        background-attachment: scroll; 
+        background-size: cover; 
+        background-position: center; 
+        background-image: url('img/img2celular.jpg'); 
+    }
+}
+
 .main{
     padding-top: 10rem;
     position: relative;
@@ -101,6 +110,15 @@ img{
     background-position: center;
     padding-top: 10rem;
     padding-bottom: 10rem;
+}
+
+@media screen and (max-width: 768px) {
+    .header-cursos {
+        background-attachment: scroll; 
+        background-size: cover; 
+        background-position: center; 
+        background-image: url('img/imgcursos-celular.jpg');
+    }
 }
 
 .min-h{
@@ -228,7 +246,6 @@ i{
         background-image: url('img/testecelular.jpg'); 
     }
 }
-
 
 .mg-7{
     margin-top: 7rem;
