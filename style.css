@@ -113,6 +113,8 @@ img{
     background-repeat: no-repeat;
     background-position: top;
     background-attachment: fixed;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
 }
 
 @media screen and (max-width: 768px) {
@@ -121,6 +123,8 @@ img{
         background-size: cover;
         background-position: center;
         background-image: url('img/img2celular.jpg'); 
+        padding-top: 5rem;
+        padding-bottom: 5rem;
     }
 }
 
