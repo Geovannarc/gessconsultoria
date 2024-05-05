@@ -541,7 +541,7 @@ a{
 .botao-orcamento{
     margin-top: 2rem;
     margin-bottom: 1rem;
-    background-color: none;
+    background-color: #F0F7FB;
     opacity: 0.8;
     color: rgb(20, 21, 22);
     width: 12rem;
