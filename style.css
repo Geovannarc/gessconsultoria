@@ -104,7 +104,7 @@ img{
 }
 
 .header-cursos{
-    background-image: url('https://gessconsultoria.com.br/img/cursos-antigo.png');
+    background-image: url('https://gessconsultoria.com.br/img/img-cursos.jpg');
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -117,7 +117,7 @@ img{
         background-attachment: scroll; 
         background-size: cover; 
         background-position: center; 
-        background-image: url('img/imgcursos-celular.png');
+        background-image: url('img/imgcursos-celular.jpg');
     }
 }
 
