@@ -211,7 +211,7 @@ i{
     }
 }
 
-.top{
+.top {
     height: 45rem;
     background-image: url('https://gessconsultoria.com.br/img/top-img.jpg');
     background-attachment: fixed;
@@ -219,11 +219,16 @@ i{
     background-size: cover;
     background-repeat: no-repeat;
 }
+
 @media screen and (max-width: 768px) {
     .top {
-        background-image: url('img/testecelular.jpg');
+        background-attachment: scroll; 
+        background-size: cover; 
+        background-position: center; 
+        background-image: url('img/testecelular.jpg'); 
     }
 }
+
 
 .mg-7{
     margin-top: 7rem;
