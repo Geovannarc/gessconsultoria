@@ -219,6 +219,11 @@ i{
     background-size: cover;
     background-repeat: no-repeat;
 }
+@media screen and (max-width: 768px) {
+    .top {
+        background-image: url('img/testecelular.jpg');
+    }
+}
 
 .mg-7{
     margin-top: 7rem;
