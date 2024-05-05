@@ -357,16 +357,12 @@ a{
 }
 
 .card-cursos{
-    display: flex !important;
-    align-items: stretch !important;
     padding-left: 0 !important;
     padding-right: 0 !important;
 }
 
 .card-inner-cursos{
     border: 0 !important;
-    max-height: 40rem !important;
-    overflow-y: auto !important;
     border-radius: 0 !important;
 }
 
@@ -374,7 +370,7 @@ a{
     font-size: 1.6rem;
     color: ghostwhite;
     text-transform: uppercase;
-    font-weight: 500;
+    font-weight: 300;
 }
 
 .color-ghostwhite{
