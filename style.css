@@ -67,12 +67,13 @@ img{
     transition: 0.2s;
 }
 
-.header-index{
+.header-index {
     background-image: url('https://gessconsultoria.com.br/img/img2.png');
     background-size: cover;
-    background-attachment: fixed;
+    background-attachment: fixed; 
     background-position: center;
 }
+
 @media screen and (max-width: 768px) {
     .header-index {
         background-attachment: scroll; 
@@ -81,6 +82,7 @@ img{
         background-image: url('img/img1celular.jpg'); 
     }
 }
+
 
 .main{
     padding-top: 10rem;
@@ -102,22 +104,25 @@ img{
     padding-bottom: 10rem;
 }
 
-.header-cursos{
+.header-cursos {
     background-image: url('https://gessconsultoria.com.br/img/img-cursos.jpg');
-    background-attachment: fixed;
     background-size: cover;
     background-position: center;
     padding-top: 10rem;
     padding-bottom: 10rem;
 }
+
 @media screen and (max-width: 768px) {
     .header-cursos {
-        background-attachment: scroll; 
-        background-size: cover; 
-        background-position: center; 
+        background-attachment: scroll;
+        background-size: cover;
+        background-position: center;
         background-image: url('img/img2celular.jpg'); 
+        padding-top: 5rem;
+        padding-bottom: 5rem;
     }
 }
+
 
 .min-h{
     min-height: 6rem;
