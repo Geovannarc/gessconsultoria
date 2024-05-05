@@ -151,45 +151,50 @@ let listas = [
   <li class="list-group-item">MÓDULO 7   - FLUXO DE FATURAMENTO</li>
   </ul>`,
   `<ul class="list-group mt-3">
-  <li class="list-group-item">MÓDULO 1   - APRESENTAÇÃO E OBJETIVOS</li>
-  <li class="list-group-item">MÓDULO 2   - FATURAMENTO HOSPITALAR</li>
-  <li class="list-group-item">MÓDULO 3   - LEGISLAÇÕES</li>
-  <li class="list-group-item">MÓDULO 4   - CONTRATUAIZAÇÃO</li>
-  <li class="list-group-item">MÓDULO 5   - CONTRATOS</li>
-  <li class="list-group-item">MÓDULO 6   - MODELOS DE REMUNERAÇÃO</li>
-  <li class="list-group-item">MÓDULO 7   - TABELAS DE FATURAMENTO</li>
-  <li class="list-group-item">MÓDULO 8   - SAÚDE SUPLEMENTAR – TISS</li>
-  <li class="list-group-item">MÓDULO 9   - SAÚDE SUPLEMENTAR - TUSS</li>
+  <li class="list-group-item">MÓDULO 1 - APRESENTAÇÃO E OBJETIVOS</li>
+  <li class="list-group-item">MÓDULO 2 - GESTÃO DE FATURAMENTO HOSPITALAR</li>
+  <li class="list-group-item">MÓDULO 3 - LEGISLAÇÕES</li>
+  <li class="list-group-item">MÓDULO 4 - CONTRATUALIZAÇÃO</li>
+  <li class="list-group-item">MÓDULO 5 - CONTRATOS</li>
+  <li class="list-group-item">MÓDULO 6 - MODELOS DE REMUNERAÇÃO</li>
+  <li class="list-group-item">MÓDULO 7 - TABELAS DE FATURAMENTO</li>
+  <li class="list-group-item">MÓDULO 8 - SAÚDE SUPLEMENTAR – TISS</li>
+  <li class="list-group-item">MÓDULO 9 - SAÚDE SUPLEMENTAR - TUSS</li>
   <li class="list-group-item">MÓDULO 10 - PRONTUÁRIO</li>
   <li class="list-group-item">MÓDULO 11 - PRODUZINDO A CONTA HOSPITALAR</li>
   <li class="list-group-item">MÓDULO 12 - AUDITORIA EM SAÚDE</li>
   </ul>
-  <button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://hotmart.com/pt-br/marketplace/produtos/gestao-de-faturamento-de-contas-medicas/B75630260L" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>`,
+  <button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://hotmart.com/pt-br/marketplace/produtos/gestao-de-faturamento-de-contas-medicas/B75630260L" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>
+  <a href="https://wa.me/5521995033429" style="color: white !important; text-decoration: underline !important; display: block; text-align: center; margin-top: 10px;">Solicitar Orçamento para realizar o Curso Presencialmente</a>`,
+
+
   `<ul class="list-group mt-3">
-  <li class="list-group-item">MÓDULO 1   - APRESENTAÇÃO E OBJETIVOS</li>
-  <li class="list-group-item">MÓDULO 2   - CONCEITOS IMPORTANTES</li>
-  <li class="list-group-item">MÓDULO 3   - CICLO DA RECEITA HOSPITALAR</li>
-  <li class="list-group-item">MÓDULO 4   - CONTRATUALIZAÇÃO</li>
-  <li class="list-group-item">MÓDULO 5   - CONTRATOS</li>
-  <li class="list-group-item">MÓDULO 6   - MODELOS DE REMUNERAÇÃO</li>
-  <li class="list-group-item">MÓDULO 7   - TABELAS DE FATURAMENTO</li>
-  <li class="list-group-item">MÓDULO 8   - SAÚDE SUPLEMENTAR – TISS</li>
-  <li class="list-group-item">MÓDULO 9   - SAÚDE SUPLEMENTAR - TUSS</li>
-  <li class="list-group-item">MÓDULO 10 - PRONTUÁRIO</li>
-  <li class="list-group-item">MÓDULO 11 - PRODUZINDO A CONTA HOSPITALAR</li>
-  <li class="list-group-item">MÓDULO 12 - AUDITORIA EM SAÚDE</li>
+  <li class="list-group-item">MÓDULO 1 - APRESENTAÇÃO E OBJETIVOS</li>
+  <li class="list-group-item">MÓDULO 2 - METODOLOGIA APLICADA</li>
+  <li class="list-group-item">MÓDULO 3 - DICAS IMPORTANTES</li>
+  <li class="list-group-item">MÓDULO 4 - ROTEIRO PARA PRÉ ANÁLISE - PRONTO SOCORRO</li>
+  <li class="list-group-item">MÓDULO 5 - PASSO A PASSO PARA ANALISAR, FATURAR E AUDITAR CONTAS DO PS</li>
+  <li class="list-group-item">MÓDULO 6 - CONFERÊNCIA PRÉ ANÁLISE X CONTA X TABELA</li>
+  <li class="list-group-item">MÓDULO 7 - CONTA 2 (PASSO A PASSO PARA ANALISAR, FATURAR E AUDITAR CONTAS DO PS)</li>
   </ul>
-  <button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://go.hotmart.com/W76867763R" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>`,
+  <button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://hotmart.com/pt-br/marketplace/produtos/como-analisar-faturar-e-auditar-uma-conta-medica-pronto-socorro/H90678690S" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>
+  <a href="https://wa.me/5521995033429" style="color: white !important; text-decoration: underline !important; display: block; text-align: center; margin-top: 10px;">Solicitar Orçamento para realizar o Curso Presencialmente</a>`,
+
   `<ul class="list-group mt-3">
-  <li class="list-group-item">MÓDULO 1   - CONCEITOS E CLASSIFICAÇÕES DE OPME/DMI</li>
-  <li class="list-group-item">MÓDULO 2   - CENÁRIOS E TENDÊNCIAS RELACIONADAS A OPME/DMI NO BRASIL E NO MUNDO</li>
-  <li class="list-group-item">MÓDULO 3   - DIRETRIZES E LEGISLAÇÕES EM OPME/DMI</li>
-  <li class="list-group-item">MÓDULO 4   - FLUXOS OPERACIONAIS DE OPME/DMI DENTRO DE OPERADORAS E HOSPITAIS (NÚCLEOS TÉCNICOS)</li>
-  <li class="list-group-item">MÓDULO 5   - AGÊNCIAS REGULADORAS (ANVISA E ANS)</li>
-  <li class="list-group-item">MÓDULO 6   - TABELAS DE OPME/DMI DE DOMÍNIO PÚBLICO (TUSS, SUS, ETC)</li>
-  <li class="list-group-item">MÓDULO 7   - RASTREABILIDADE PARA AUDITORIA PÓS CIRÚRGICA E FATURAMENTO DE OPME/DMI</li>
+  <li class="list-group-item">MÓDULO 1 - APRESENTAÇÃO E OBJETIVOS</li>
+  <li class="list-group-item">MÓDULO 2 - METODOLOGIA APLICADA</li>
+  <li class="list-group-item">MÓDULO 3 - DICAS IMPORTANTES</li>
+  <li class="list-group-item">MÓDULO 4 - ROTEIRO PARA PRÉ ANÁLISE - CENTRO CIRÚRGICO</li>
+  <li class="list-group-item">MÓDULO 5 - PASSO A PASSO PARA ANALISAR, FATURAR E AUDITAR CONTAS MÉDICAS DE CENTRO CIRÚRGICO</li>
+  <li class="list-group-item">MÓDULO 6 - CONFERÊNCIA PRÉ ANÁLISE X CONTA</li>
+  <li class="list-group-item">MÓDULO 7 - ROTEIRO PARA PRÉ ANÁLISE - UNIDADE DE INTERNAÇÃO</li>
+  <li class="list-group-item">MÓDULO 8 - PASSO A PASSO PARA ANALISAR, FATURAR E AUDITAR CONTAS MÉDICAS DE UNIDADES DE INTERNAÇÃO</li>
+  <li class="list-group-item">MÓDULO 9 - CONFERÊNCIA PRÉ ANÁLISE X CONTA X TABELA</li>
+  <li class="list-group-item">MÓDULO 10 - CONTA AUDITADA</li>
   </ul>
-  <button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://go.hotmart.com/F76925606B" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>`,
+
+  <button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://hotmart.com/pt-br/marketplace/produtos/como-analisar-faturar-e-auditar-uma-conta-medica-internacao-e-centro-cirurgico/L90678802P" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>
+  <a href="https://wa.me/5521995033429" style="color: white !important; text-decoration: underline !important; display: block; text-align: center; margin-top: 10px;">Solicitar Orçamento para realizar o Curso Presencialmente</a>`,
   `<ul class="list-group mt-3">
   <li class="list-group-item">MÓDULO 1   - HISTÓRICO, CENÁRIOS E CONCEITOS DAS DIVERGÊNCIAS TÉCNICO-ASSISTENCIAIS</li>
   <li class="list-group-item">MÓDULO 2   - JUNTA MÉDICA NOS PROCESSOS DE AUTORIZAÇÃO DE PROCEDIMENTOS OU EVENTOS EM SAÚDE</li>
@@ -199,87 +204,116 @@ let listas = [
   <li class="list-group-item">MÓDULO 6   - PAPEL DO MÉDICO AUDITOR NO PROCESSO DA JUNTA MÉDICA</li>
   <li class="list-group-item">MÓDULO 7   - POSSIBILIDADES DE CONSENSO</li>
   </ul>
-  <button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://go.hotmart.com/B76925608S" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>`,
+  <button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://go.hotmart.com/B76925608S" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>
+  <a href="https://wa.me/5521995033429" style="color: white !important; text-decoration: underline !important; display: block; text-align: center; margin-top: 10px;">Solicitar Orçamento para realizar o Curso Presencialmente</a>`,
   `<ul class="list-group mt-3">
   <li class="list-group-item">MÓDULO 1   - REVISÃO DA ANATOMIA E FISIOLOGIA ENDOVASCULAR</li>
   <li class="list-group-item">MÓDULO 2   - ACESSO: PUNÇÃO ARTERIAL, INTRODUTORES (CURTOS, BAINHAS LONGAS E ARAMADAS), ACESSÓRIOS, GUIAS (FLEXÍVES E EXTRA SUPORTE) E CATÉTERES (CONVENCIONAIS E CENTIMETRADOS)</li>
   <li class="list-group-item">MÓDULO 3   - DIAGNÓSTICO: ARTERIOGRAFIAS E AORTOGRAFIAS (SISTEMAS INJETORES E TIPOS DE CONTRASTES)</li>
   <li class="list-group-item">MÓDULO 4   - TRATAMENTOS: ABERTOS (ENXERTOS) E PERCUTÂNEOS, ESTENOSES E ANEURISMAS (TÉCNICAS POR BALÕES, STENTS E ENDOPRÓTESES)</li>
   <li class="list-group-item">MÓDULO 5   - ESTENOSES: CAROTÍDEAS (SISTEMA DE PROTEÇÃO DISTAL, BALÃO E STENT AUTOEXPANSÍVEL), ARTÉRIAS RENAIS E PERIFÉRICAS (BALÕES E STENTS EXPANSÍVEIS POR BALÃO E AUTO EXPANSÍVEIS), E MUITO MAIS!</li>
-  </ul><button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://go.hotmart.com/E76925609M" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>`,
+  </ul><button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://go.hotmart.com/E76925609M" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>
+  <a href="https://wa.me/5521995033429" style="color: white !important; text-decoration: underline !important; display: block; text-align: center; margin-top: 10px;">Solicitar Orçamento para realizar o Curso Presencialmente</a>`,
   `<ul class="list-group mt-3">
   <li class="list-group-item">MÓDULO 1   - INTRODUÇÃO - CONSIDERAÇÕES SOBRE COLUNA VERTEBRAL / PROBLEMAS DE COLUNA</li>
   <li class="list-group-item">MÓDULO 2   - COLUNA CERVICAL</li>
   <li class="list-group-item">MÓDULO 3   - COLUNA LOMBAR</li>
   <li class="list-group-item">MÓDULO 4   - COLUNA TORÁCICA</li>
   <li class="list-group-item">MÓDULO 5   - COLUNA SACRO-ILÍACA</li>
-  </ul><button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://go.hotmart.com/Q76925610I" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>`,
+  </ul><button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://go.hotmart.com/Q76925610I" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>
+  <a href="https://wa.me/5521995033429" style="color: white !important; text-decoration: underline !important; display: block; text-align: center; margin-top: 10px;">Solicitar Orçamento para realizar o Curso Presencialmente</a>`,
   `<ul class="list-group mt-3">
   <li class="list-group-item">MÓDULO 1   - AUDITORIA DE OPME NO TRAUMA / EMERGÊNCIA NA BMF – MICROPLACAS, MICROPARAFUSOS, MICROTELAS, ENXERTOS, PROTOTIPADOS (BIOLÓGICOS E SINTÉTICOS), NOVAS TECNOLOGIAS</li>
   <li class="list-group-item">MÓDULO 2   - AUDITORIA DE OPME EM PROCEDIMENTOS CORRETIVOS NA BMF (CIRURGIAS ORTOGNÁTICAS), PRINCIPAIS PATOLOGIAS E PROCEDIMENTOS (PROGNATISMOS, MORDIDA ABERTA, ETC), OPME’S: MICROPLACAS, MICROPARAFUSOS, MICROTELAS, PARAFUSO DE FIXAÇÃO / BLOQUEIO INTERMAXILAR - IMF, MICRODISSECTORES, MICROSSERRAS, ENXERTOS (ORGÂNICOS, SINTÉTICOS - PÓ, GRÂNULOS, BLOCOS E PASTA / MEMBRANAS), DISTRATORES PALATAIS, PRÓTESES ATM (DE PRATELEIRA E CUSTOMIZADAS), ARTROSCOPIA DE ATM, PROTOTIPADOS (BIOLÓGICOS E SINTÉTICOS), NOVAS TECNOLOGIAS</li>
   <li class="list-group-item">MÓDULO 3   - CMF (TRAUMA E CRANIO ESTENOSE): MINIPLACAS, MINIPARAFUSOS, CIMENTO TERMOPLÁSTICO, BIOABSORVÍVEIS</li>
   <li class="list-group-item">MÓDULO 4   - LEGISLAÇÕES, MBE E ATS RELACIONADAS ÀS ESPECIALIDADES DE BMF E CMF </li>
-  </ul><button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://go.hotmart.com/L76925607S" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>`,
+  </ul><button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://go.hotmart.com/L76925607S" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>
+  <a href="https://wa.me/5521995033429" style="color: white !important; text-decoration: underline !important; display: block; text-align: center; margin-top: 10px;">Solicitar Orçamento para realizar o Curso Presencialmente</a>`,
   `<ul class="list-group mt-3">
   <li class="list-group-item">MÓDULO 1   - CONCEITO, HISTÓRICO, CRITÉRIOS DE REMUNERAÇÃO</li>
   <li class="list-group-item">MÓDULO 2   - PROCEDIMENTOS GERAIS E CLÍNICOS</li>
   <li class="list-group-item">MÓDULO 3   - PROCEDIMENTOS CIRÚRGICOS INVASIVOS</li>
   <li class="list-group-item">MÓDULO 4 - PROCEDIMENTOS DIAGNÓSTICO E TERAPÊUTICOS</li>
-  </ul><button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://go.hotmart.com/Q78875304D?dp=1" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>`,
+  </ul><button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://go.hotmart.com/Q78875304D?dp=1" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>
+  <a href="https://wa.me/5521995033429" style="color: white !important; text-decoration: underline !important; display: block; text-align: center; margin-top: 10px;">Solicitar Orçamento para realizar o Curso Presencialmente</a>`,
   `<ul class="list-group mt-3">
   <li class="list-group-item">MÓDULO 1   - APRESENTAÇÃO E OBJETIVOS</li>
   <li class="list-group-item">MÓDULO 2   - PASSO A PASSO PARA FATURAR E AUDITAR AS CONTAS DE PACIENTES ATENDIDOS NO PRONTO SOCORRO</li>
   </ul>`,
   `<ul class="list-group mt-3">
-  <li class="list-group-item">MÓDULO 1   - APRESENTAÇÃO E OBJETIVOS</li>
-  <li class="list-group-item">MÓDULO 2   - PASSO A PASSO PARA FATURAR E AUDITAR AS CONTAS DE PACIENTES INTERNADOS - CONSUMO NAS UNIDADES DE INTERNAÇÃO (UI E UTI)</li>
-  <li class="list-group-item">MÓDULO 3   - PASSO A PASSO PARA FATURAR E AUDITAR AS CONTAS DE PACIENTES CIRÚRGICOS - CONSUMO DO PACIENTE NAS CIRURGIAS</li>
-  </ul>`,
-  `<ul class="list-group mt-3">
-  <li class="list-group-item">MÓDULO 1   - APRESENTAÇÃO E OBJETIVOS</li>
-  <li class="list-group-item">MÓDULO 2   - PASSO A PASSO PARA FATURAR E AUDITAR AS CONTAS DE PACIENTES ATENDIDOS NO PRONTO SOCORRO</li>
-  </ul>`,
-  `<ul class="list-group mt-3">
-  <li class="list-group-item">MÓDULO 1   - APRESENTAÇÃO E OBJETIVOS</li>
-  <li class="list-group-item">MÓDULO 2   - PASSO A PASSO PARA FATURAR E AUDITAR AS CONTAS DE PACIENTES INTERNADOS - CONSUMO NAS UNIDADES DE INTERNAÇÃO (UI E UTI)</li>
-  <li class="list-group-item">MÓDULO 3   - PASSO A PASSO PARA FATURAR E AUDITAR AS CONTAS DE PACIENTES CIRÚRGICOS - CONSUMO DO PACIENTE NAS CIRURGIAS</li>
-  </ul>`,
-  `<ul class="list-group mt-3">
-  <li class="list-group-item">MÓDULO 1   - APRESENTAÇÃO E OBJETIVOS</li>
-  <li class="list-group-item">MÓDULO 2   - FATURAMENTO HOSPITALAR</li>
-  <li class="list-group-item">MÓDULO 3   - LEGISLAÇÕES</li>
-  <li class="list-group-item">MÓDULO 4   - CONTRATUAIZAÇÃO</li>
-  <li class="list-group-item">MÓDULO 5   - CONTRATOS</li>
-  <li class="list-group-item">MÓDULO 6   - MODELOS DE REMUNERAÇÃO</li>
-  <li class="list-group-item">MÓDULO 7   - TABELAS DE FATURAMENTO</li>
-  <li class="list-group-item">MÓDULO 8   - SAÚDE SUPLEMENTAR – TISS</li>
-  <li class="list-group-item">MÓDULO 9   - SAÚDE SUPLEMENTAR - TUSS</li>
-  <li class="list-group-item">MÓDULO 10 - PRONTUÁRIO</li>
-  <li class="list-group-item">MÓDULO 11 - PRODUZINDO A CONTA HOSPITALAR</li>
-  <li class="list-group-item">MÓDULO 12 - AUDITORIA EM SAÚDE</li>
+  <li class="list-group-item">MÓDULO 1 - INTRODUÇÃO AO SISTEMA DE SAÚDE - CENÁRIO ATUAL</li>
+  <li class="list-group-item">MÓDULO 2 - ANS, OPERADORAS, PRESTADORES E BENEFICIÁRIOS</li>
+  <li class="list-group-item">MÓDULO 3 - ROL DA ANS E DUTS</li>
+  <li class="list-group-item">MÓDULO 4 - PLANOS DE SAÚDE E REEMBOLSO DE DESPESAS</li>
+  <li class="list-group-item">MÓDULO 5 - FRAUDES E ABUSO - IDENTIFICAÇÃO DE SINAIS DE FRAUDE E ABUSO NO PROCESSO DE REEMBOLSO E MEDIDAS PARA PREVENIR E COMBATER ESSAS ATIVIDADES</li>
+  <li class="list-group-item">MÓDULO 6 - REEMBOLSO DE CONSULTAS, EXAMES, PROCEDIMENTOS, TERAPIAS E CIRURGIAS</li>
+  <li class="list-group-item">MÓDULO 7 - INSTRUÇÕES SOBRE MELHORES PRÁTICAS COMO CODIFICAÇÃO ADEQUADA, DOCUMENTAÇÃO PRECISA E PREVENÇÃO DE REJEIÇÕES</li>
+  <li class="list-group-item">MÓDULO 8 - AUDITORIA DE REEMBOLSO - COMO REALIZAR AUDITORIA PARA GARANTIR A CONFORMIDADE COM REGULAMENTOS E POLÍTICAS DE REEMBOLSO, BEM COMO IDENTIFICAR E CORRIGIR ERROS</li>
   </ul>
-  <button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://hotmart.com/pt-br/marketplace/produtos/gestao-de-faturamento-de-contas-medicas/B75630260L" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>`,
+  <a href="https://wa.me/5521995033429" style="color: white !important; text-decoration: underline !important; display: block; text-align: center; margin-top: 10px;">Solicitar Orçamento para realizar o Curso Presencialmente</a>`,
   `<ul class="list-group mt-3">
-  <li class="list-group-item">MÓDULO 1   - APRESENTAÇÃO E OBJETIVOS</li>
-  <li class="list-group-item">MÓDULO 2   - CONCEITOS IMPORTANTES</li>
-  <li class="list-group-item">MÓDULO 3   - CICLO DA RECEITA HOSPITALAR</li>
-  <li class="list-group-item">MÓDULO 4   - CONTRATUALIZAÇÃO</li>
-  <li class="list-group-item">MÓDULO 5   - CONTRATOS</li>
-  <li class="list-group-item">MÓDULO 6   - MODELOS DE REMUNERAÇÃO</li>
-  <li class="list-group-item">MÓDULO 7   - TABELAS DE FATURAMENTO</li>
-  <li class="list-group-item">MÓDULO 8   - SAÚDE SUPLEMENTAR – TISS</li>
-  <li class="list-group-item">MÓDULO 9   - SAÚDE SUPLEMENTAR - TUSS</li>
-  <li class="list-group-item">MÓDULO 10 - PRONTUÁRIO</li>
-  <li class="list-group-item">MÓDULO 11 - PRODUZINDO A CONTA HOSPITALAR</li>
-  <li class="list-group-item">MÓDULO 12 - AUDITORIA EM SAÚDE</li>
+  <li class="list-group-item">MÓDULO 1 – CONCEITO, HISTÓRICO, CRITÉRIOS DE REMUNERAÇÃO.</li>
+  <li class="list-group-item">MÓDULO 2 – PROCEDIMENTOS GERAIS E CLÍNICOS.</li>
+  <li class="list-group-item">MÓDULO 3 – PROCEDIMENTOS CIRÚRGICOS INVASIVOS.</li>
+  <li class="list-group-item">MÓDULO 4 - PROCEDIMENTOS DIAGNÓSTICO E TERAPÊUTICOS.</li>
+  </ul><button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://hotmart.com/pt-br/marketplace/produtos/tabela-cbhpm/Q78875304D" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>
+  <a href="https://wa.me/5521995033429" style="color: white !important; text-decoration: underline !important; display: block; text-align: center; margin-top: 10px;">Solicitar Orçamento para realizar o Curso Presencialmente</a>`,
+  `<ul class="list-group mt-3">
+  <ul class="list-group mt-3">
+  <li class="list-group-item">MÓDULO 1 - CONTEXTUALIZAÇÃO SOBRE AS TABELAS DE MATERIAIS E MEDICAMENTOS</li>
+  <li class="list-group-item">MÓDULO 2 - CÂMARA DE REGULAÇÃO DO MERCADO DE MEDICAMENTOS (CMED)</li>
+  <li class="list-group-item">MÓDULO 3 - INFORMAÇÕES GERAIS SOBRE A REVISTA BRASÍNDICE</li>
+  <li class="list-group-item">MÓDULO 4 - LISTA POSITIVA, LISTA NEGATIVA E LISTA NEUTRA</li>
+  <li class="list-group-item">MÓDULO 5 - CÁLCULO DO PREÇO MÁXIMO AO CONSUMIDOR E PREÇO FÁBRICA</li>
+  <li class="list-group-item">MÓDULO 6 - CUIDADOS NO CADASTRO DOS ITENS</li>
+  <li class="list-group-item">MÓDULO 7 - INFORMAÇÕES GERAIS SOBRE A REVISTA SIMPRO</li>
+  <li class="list-group-item">MÓDULO 8 - COMO NEGOCIAR ITENS RETIRADOS DAS REVISTAS BRASÍNDICE E SIMPRO</li>
+  <li class="list-group-item">MÓDULO 9 - CALCULANDO A TRANSPOSIÇÃO DE VALORES</li>
+  <li class="list-group-item">MÓDULO 10 - EXERCÍCIOS PRÁTICOS</li>
+  </ul><button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://hotmart.com/pt-br/marketplace/produtos/aprenda-a-usar-as-tabelas-brasindice-e-simpro-gess/L91660612G" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>
+  <a href="https://wa.me/5521995033429" style="color: white !important; text-decoration: underline !important; display: block; text-align: center; margin-top: 10px;">Solicitar Orçamento para realizar o Curso Presencialmente</a>`,
+  `<ul class="list-group mt-3">
+  <li class="list-group-item">MÓDULO 1 - CONCEITOS BÁSICOS DE AUTORIZAÇÃO DE PROCEDIMENTOS MÉDICOS</li>
+  <li class="list-group-item">MÓDULO 2 - LEGISLAÇÃO E REGULAMENTAÇÃO SOBRE AUTORIZAÇÃO DE PROCEDIMENTOS MÉDICOS</li>
+  <li class="list-group-item">MÓDULO 3 - PAPEL E RESPONSABILIDADES DO PROFISSIONAL RESPONSÁVEL PELA AUTORIZAÇÃO</li>
+  <li class="list-group-item">MÓDULO 4 - PROCESSO DE AUTORIZAÇÃO DE PROCEDIMENTOS MÉDICOS</li>
+  <li class="list-group-item">MÓDULO 5 - DOCUMENTAÇÃO E REQUISITOS NECESSÁRIOS PARA OBTER AUTORIZAÇÃO</li>
+  <li class="list-group-item">MÓDULO 6 - COMUNICAÇÃO EFICAZ COM PACIENTES E SEGURADORAS DURANTE O PROCESSO DE AUTORIZAÇÃO</li>
+  <li class="list-group-item">MÓDULO 7 - REVISÃO E APROVAÇÃO DE PROCEDIMENTOS MÉDICOS AUTORIZADOS</li>
+  <li class="list-group-item">MÓDULO 8 - MONITORAMENTO E FISCALIZAÇÃO DO CUMPRIMENTO DAS AUTORIZAÇÕES</li>
+  <li class="list-group-item">MÓDULO 9 - RESOLUÇÃO DE CONFLITOS E RECURSOS EM CASOS DE NEGATIVA DE AUTORIZAÇÃO</li>
+  <li class="list-group-item">MÓDULO 10 - ATUALIZAÇÕES E TENDÊNCIAS EM AUTORIZAÇÃO DE PROCEDIMENTOS MÉDICOS</li>
+  </ul><button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://hotmart.com/pt-br/marketplace/produtos/gestao-das-autorizacoes-de-procedimentos-medicos-gess/O91661574E" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>
+  <a href="https://wa.me/5521995033429" style="color: white !important; text-decoration: underline !important; display: block; text-align: center; margin-top: 10px;">Solicitar Orçamento para realizar o Curso Presencialmente</a>`,
+  `<ul class="list-group mt-3">
+  <li class="list-group-item">MÓDULO 1 - HISTÓRICO DA SAÚDE NO BRASIL, ANS E SEU PAPEL E APRESENTAÇÃO DE DADOS E INDICADORES DO SETOR</li>
+  <li class="list-group-item">MÓDULO 2 - PRINCIPAIS LEIS REGULADORAS DO MERCADO</li>
+  <li class="list-group-item">MÓDULO 3 - TIPOS DE OPERADORAS E PLANOS</li>
+  <li class="list-group-item">MÓDULO 4 - A IMPORTÂNCIA DA ÁREA DE GESTÃO DE CONTRATOS E SUA INTERFACE COM OS DEMAIS SETORES, CONTRATOS E TABELAS DE REFERÊNCIA</li>
+  <li class="list-group-item">MÓDULO 5 - NEGOCIAÇÃO - ATRIBUTOS E COMPETÊNCIAS IMPORTANTES PARA UMA BOA NEGOCIAÇÃO</li>
+  <li class="list-group-item">MÓDULO 6 - ATRIBUIÇÕES DA ÁREA DE CREDENCIAMENTO/COMERCIAL</li>
+  <li class="list-group-item">MÓDULO 7 - MODELOS DE REMUNERAÇÃO</li>
+  <li class="list-group-item">MÓDULO 8 - CUSTOS HOSPITALARES</li>
+  <li class="list-group-item">MÓDULO 9 - ELABORANDO UMA PROPOSTA, REAJUSTES E EXTENSÕES DE CREDENCIAMENTO</li>
+  <li class="list-group-item">MÓDULO 10 - GESTÃO DE CONTRATOS, SUSPENSÃO E DESCREDENCIAMENTO</li>
+  <li class="list-group-item">MÓDULO 11 - PERSPECTIVAS DO MERCADO DE SAÚDE E NOVOS MODELOS DE REMUNERAÇÃO</li>
   </ul>
-  <button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://go.hotmart.com/W76867763R" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>`,
-  `<ul class="list-group mt-3">
-  <li class="list-group-item">MÓDULO 1   - CONCEITO, HISTÓRICO, CRITÉRIOS DE REMUNERAÇÃO</li>
-  <li class="list-group-item">MÓDULO 2   - PROCEDIMENTOS GERAIS E CLÍNICOS</li>
-  <li class="list-group-item">MÓDULO 3   - PROCEDIMENTOS CIRÚRGICOS INVASIVOS</li>
-  <li class="list-group-item">MÓDULO 4 - PROCEDIMENTOS DIAGNÓSTICO E TERAPÊUTICOS</li>
-  </ul><button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://go.hotmart.com/Q78875304D?dp=1" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>`
+  <a href="https://wa.me/5521995033429" style="color: white !important; text-decoration: underline !important; display: block; text-align: center; margin-top: 10px;">Solicitar Orçamento para realizar o Curso Presencialmente</a>`,
+`<ul class="list-group mt-3">
+  <li class="list-group-item">MÓDULO 1 - APRESENTAÇÃO E OBJETIVOS</li>
+  <li class="list-group-item">MÓDULO 2 - CONCEITOS IMPORTANTES</li>
+  <li class="list-group-item">MÓDULO 3 - GLOSA E O IMPACTO NO CICLO DA RECEITA HOSPITALAR</li>
+  <li class="list-group-item">MÓDULO 4 - CONTRATOS E MODELOS REMUNERATÓRIOS</li>
+  <li class="list-group-item">MÓDULO 5 - TABELAS</li>
+  <li class="list-group-item">MÓDULO 6 - RECONHECENDO AS GLOSAS</li>
+  <li class="list-group-item">MÓDULO 7 - REALIZANDO O RECURSO</li>
+  <li class="list-group-item">MÓDULO 8 - COMUNICAÇÃO COM À OPERADORA</li>
+  <li class="list-group-item">MÓDULO 9 - NOTIFICAÇÕES DE GLOSAS</li>
+  <li class="list-group-item">MÓDULO 10 - LEGISLAÇÃO</li>
+  <li class="list-group-item">MÓDULO 11 - PRONTUÁRIO</li>
+  <li class="list-group-item">MÓDULO 12 - INDICADORES FINANCEIROS</li>
+  </ul><button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://hotmart.com/pt-br/marketplace/produtos/gestao-e-recursos-de-glosas-nz0ub/W76867763R" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>
+  <a href="https://wa.me/5521995033429" style="color: white !important; text-decoration: underline !important; display: block; text-align: center; margin-top: 10px;">Solicitar Orçamento para realizar o Curso Presencialmente</a>`
 ]
 
 function saibaMais(id){
