@@ -357,7 +357,7 @@ a{
 }
 
 .card-cursos{
-    display: flex !important;
+    display: flex;
     align-items: stretch !important;
     padding-left: 0 !important;
     padding-right: 0 !important;
@@ -365,8 +365,6 @@ a{
 
 .card-inner-cursos{
     border: 0 !important;
-    max-height: 40rem !important;
-    overflow-y: auto !important;
     border-radius: 0 !important;
 }
 
