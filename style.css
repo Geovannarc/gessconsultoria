@@ -357,14 +357,15 @@ a{
 }
 
 .card-cursos{
-    padding-left: 0 !important;
-    padding-right: 0 !important;
+    padding-left: 1 !important;
+    padding-right: 1 !important;
 }
 
 .card-inner-cursos{
     border: 0 !important;
     border-radius: 0 !important;
 }
+
 
 .cursos-title{
     font-size: 1.6rem;
