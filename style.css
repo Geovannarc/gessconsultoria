@@ -119,6 +119,7 @@ img{
 
 @media screen and (max-width: 768px) {
     .header-cursos {
+        height: auto;
         background-attachment: scroll;
         background-size: cover;
         background-position: center;
