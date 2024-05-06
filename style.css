@@ -107,7 +107,7 @@ img{
 }
 
 .header-cursos {
-    height: 45rem;
+    height: auto;
     background-image: url('https://gessconsultoria.com.br/img/img-cursos.jpg');
     background-size: cover;
     background-repeat: no-repeat;
