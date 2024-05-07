@@ -19,7 +19,7 @@ function changeContent(id){
         id4.style.backgroundColor = "white"
         break;
         case 2:
-        conteudo.innerHTML = "A consultoria é destinada para instituições de saúde que buscam suporte no desenvolvimento e melhoria dos processos com foco na segurança do paciente e qualidade dos serviços, buscando o uso inteligente de recursos.  Todo o processo de consultoria é realizado com embasamento em metodologias científicas e ferramentas da qualidade e é focado em orientar as equipes da instituição sobre o que fazer e, principalmente, como executar as atividades propostas."
+        conteudo.innerHTML = "<p>A consultoria é destinada para instituições de saúde que buscam suporte no desenvolvimento e melhoria dos processos, qualidade, segurança e melhor performance do CICLO DA RECEITA.</p><p>Todo o processo de consultoria é realizado com embasamento em metodologias testadas e ferramentas gerenciais do negócio, além de orientar as equipes da instituição sobre o que fazer e, principalmente, como executar e gerenciar as atividades propostas.</p>";
         icone.innerHTML = ' <i class="fa-solid fa-gears fa-4x mb-3 card-img-top text-center mt-3 i-card" style="color: #61E2BE;"></i><h3 class="text-center font-weight-300">Consultoria para Gestão</h3>'
         box.style.display = 'none';
         id2.style.backgroundColor = "rgba(45, 111, 80, 0.053)"
