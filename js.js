@@ -164,7 +164,7 @@ let listas = [
   <li class="list-group-item">MÓDULO 11 - PRODUZINDO A CONTA HOSPITALAR</li>
   <li class="list-group-item">MÓDULO 12 - AUDITORIA EM SAÚDE</li>
   </ul>
-  <button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://hotmart.com/pt-br/marketplace/produtos/gestao-de-faturamento-de-contas-medicas/B75630260L" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>
+  <button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://gesseducacional.com.br/ecommerce/course/gesto-de-faturamento-e-auditoria-de-contas-mdicas/103" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>
   <a href="https://wa.me/5521995033429" style="color: white !important; text-decoration: underline !important; display: block; text-align: center; margin-top: 10px;">Solicitar Orçamento para realizar o Curso Presencialmente</a>`,
 
 
@@ -177,7 +177,7 @@ let listas = [
   <li class="list-group-item">MÓDULO 6 - CONFERÊNCIA PRÉ ANÁLISE X CONTA X TABELA</li>
   <li class="list-group-item">MÓDULO 7 - CONTA 2 (PASSO A PASSO PARA ANALISAR, FATURAR E AUDITAR CONTAS DO PS)</li>
   </ul>
-  <button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://hotmart.com/pt-br/marketplace/produtos/como-analisar-faturar-e-auditar-uma-conta-medica-pronto-socorro/H90678690S" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>
+  <button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://gesseducacional.com.br/ecommerce/course/como-analisar-faturar-e-auditar-uma-conta-mdica-pronto-socorro/104" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>
   <a href="https://wa.me/5521995033429" style="color: white !important; text-decoration: underline !important; display: block; text-align: center; margin-top: 10px;">Solicitar Orçamento para realizar o Curso Presencialmente</a>`,
 
   `<ul class="list-group mt-3">
@@ -193,7 +193,7 @@ let listas = [
   <li class="list-group-item">MÓDULO 10 - CONTA AUDITADA</li>
   </ul>
 
-  <button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://hotmart.com/pt-br/marketplace/produtos/como-analisar-faturar-e-auditar-uma-conta-medica-internacao-e-centro-cirurgico/L90678802P" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>
+  <button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://gesseducacional.com.br/ecommerce/course/como-analisar-faturar-e-auditar-contas-mdicas-de-internao-e-de-centro-cirrgico/105" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>
   <a href="https://wa.me/5521995033429" style="color: white !important; text-decoration: underline !important; display: block; text-align: center; margin-top: 10px;">Solicitar Orçamento para realizar o Curso Presencialmente</a>`,
   `<ul class="list-group mt-3">
   <li class="list-group-item">MÓDULO 1   - HISTÓRICO, CENÁRIOS E CONCEITOS DAS DIVERGÊNCIAS TÉCNICO-ASSISTENCIAIS</li>
@@ -256,7 +256,7 @@ let listas = [
   <li class="list-group-item">MÓDULO 2 – PROCEDIMENTOS GERAIS E CLÍNICOS.</li>
   <li class="list-group-item">MÓDULO 3 – PROCEDIMENTOS CIRÚRGICOS INVASIVOS.</li>
   <li class="list-group-item">MÓDULO 4 - PROCEDIMENTOS DIAGNÓSTICO E TERAPÊUTICOS.</li>
-  </ul><button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://hotmart.com/pt-br/marketplace/produtos/tabela-cbhpm/Q78875304D" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>
+  </ul><button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://gesseducacional.com.br/ecommerce/course/tabela-cbhpm-classificao-brasileira-hierarquizada-de-procedimentos-mdicos/106" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>
   <a href="https://wa.me/5521995033429" style="color: white !important; text-decoration: underline !important; display: block; text-align: center; margin-top: 10px;">Solicitar Orçamento para realizar o Curso Presencialmente</a>`,
   `<ul class="list-group mt-3">
   <ul class="list-group mt-3">
@@ -270,7 +270,7 @@ let listas = [
   <li class="list-group-item">MÓDULO 8 - COMO NEGOCIAR ITENS RETIRADOS DAS REVISTAS BRASÍNDICE E SIMPRO</li>
   <li class="list-group-item">MÓDULO 9 - CALCULANDO A TRANSPOSIÇÃO DE VALORES</li>
   <li class="list-group-item">MÓDULO 10 - EXERCÍCIOS PRÁTICOS</li>
-  </ul><button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://hotmart.com/pt-br/marketplace/produtos/aprenda-a-usar-as-tabelas-brasindice-e-simpro-gess/L91660612G" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>
+  </ul><button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://gesseducacional.com.br/ecommerce/course/aprenda-a-usar-as-tabelas-brasndice-simpro-e-tabelas-prprias/108" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>
   <a href="https://wa.me/5521995033429" style="color: white !important; text-decoration: underline !important; display: block; text-align: center; margin-top: 10px;">Solicitar Orçamento para realizar o Curso Presencialmente</a>`,
   `<ul class="list-group mt-3">
   <li class="list-group-item">MÓDULO 1 - CONCEITOS BÁSICOS DE AUTORIZAÇÃO DE PROCEDIMENTOS MÉDICOS</li>
@@ -283,7 +283,7 @@ let listas = [
   <li class="list-group-item">MÓDULO 8 - MONITORAMENTO E FISCALIZAÇÃO DO CUMPRIMENTO DAS AUTORIZAÇÕES</li>
   <li class="list-group-item">MÓDULO 9 - RESOLUÇÃO DE CONFLITOS E RECURSOS EM CASOS DE NEGATIVA DE AUTORIZAÇÃO</li>
   <li class="list-group-item">MÓDULO 10 - ATUALIZAÇÕES E TENDÊNCIAS EM AUTORIZAÇÃO DE PROCEDIMENTOS MÉDICOS</li>
-  </ul><button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://hotmart.com/pt-br/marketplace/produtos/gestao-das-autorizacoes-de-procedimentos-medicos-gess/O91661574E" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>
+  </ul><button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://gesseducacional.com.br/ecommerce/course/gesto-das-autorizaes-de-procedimentos-mdicos/107" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>
   <a href="https://wa.me/5521995033429" style="color: white !important; text-decoration: underline !important; display: block; text-align: center; margin-top: 10px;">Solicitar Orçamento para realizar o Curso Presencialmente</a>`,
   `<ul class="list-group mt-3">
   <li class="list-group-item">MÓDULO 1 - HISTÓRICO DA SAÚDE NO BRASIL, ANS E SEU PAPEL E APRESENTAÇÃO DE DADOS E INDICADORES DO SETOR</li>
@@ -312,7 +312,7 @@ let listas = [
   <li class="list-group-item">MÓDULO 10 - LEGISLAÇÃO</li>
   <li class="list-group-item">MÓDULO 11 - PRONTUÁRIO</li>
   <li class="list-group-item">MÓDULO 12 - INDICADORES FINANCEIROS</li>
-  </ul><button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://hotmart.com/pt-br/marketplace/produtos/gestao-e-recursos-de-glosas-nz0ub/W76867763R" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>
+  </ul><button class="btn btn-success mt-3" style="margin-left: auto;margin-right: auto;display: block;"><a href="https://gesseducacional.com.br/ecommerce/course/gesto-e-recursos-de-glosas/109" style="color: white !important; font-weight: 300;">COMPRAR AGORA</a></button>
   <a href="https://wa.me/5521995033429" style="color: white !important; text-decoration: underline !important; display: block; text-align: center; margin-top: 10px;">Solicitar Orçamento para realizar o Curso Presencialmente</a>`
 ]
 
